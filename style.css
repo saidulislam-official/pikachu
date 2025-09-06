@@ -1,0 +1,20 @@
+.pokemonSection{
+    margin: 80px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+#pokemonName{
+    font-size: large;
+    padding: 15px;
+    border-radius: 8px;
+}
+#pokemonButton{
+    font-size: large;
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+    background-color: #e3350d;
+    border: 3px solid #fff;
+}
